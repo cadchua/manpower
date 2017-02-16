@@ -1,0 +1,13 @@
+@CHARSET "ISO-8859-1";
+
+#payconfig-grid {
+	height: 440px;
+	width: 100%;
+}
+
+.popup {
+	display: none;
+}
+
+#payconfig-popup {
+}

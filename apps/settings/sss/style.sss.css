@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+
+#sss-form {
+	width: 80%;
+	margin-bottom: 1em;
+}
+
+#sss-grid {
+	height: 440px;
+	width: 100%;
+}
+
+#sss-form button {
+	font-size: 15px;
+	width: 80px;
+	height: 24px;
+}

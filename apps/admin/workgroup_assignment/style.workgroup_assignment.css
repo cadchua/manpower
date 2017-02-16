@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+
+.grid {
+	display-inline: inline;
+	float: left;
+	margin-right: 2em;
+}
+
+#workgroup-grid {
+	width: 350px;
+	height: 440px;
+}
+
+#module-grid {
+	height: 440px;
+	width: 550px;
+}

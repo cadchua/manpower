@@ -1,0 +1,116 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	font-size: 12px;
+}
+
+.grid {
+	height: 350px;
+}
+
+
+#cashadvance-accounts {
+	height: 300px;
+	clear: both;
+	margin-top: 3em;
+	width: 100%;
+}
+
+#employee-grid {
+	width: 840px;
+	margin: 0 1em 1em 0;
+}
+
+#employee-grid input, #employee-grid select {
+	margin-right: 1em;
+}
+
+.pane {
+	display: inline-block;
+	position: relative;
+	float: left;
+	width: 325px;
+	margin: 1em;
+}
+
+.popup {
+	display: none;
+}
+
+.clear {
+	clear: both;
+}
+
+#cash-advance-pane .panel-title{
+	margin-top: 0;
+	text-align: center;
+}
+
+.employee-img {
+	width: 150px;
+	height: 150px;
+	display: inline;
+	float: left;
+	margin-right: 1em;
+	font-family: Arial;
+}
+
+#cashadvance-buttons {
+	display: block;
+}
+
+
+#cash-advance-pane {
+	font-size: 2em;
+	
+}
+
+.employee-info{
+	font-size: 12px;
+}
+
+.clear {
+	clear: both;
+}
+
+#ca-list-controls {
+	display: block;
+}
+
+#ca-list-controls select,
+#ca-list-controls input,
+#ca-list-controls button,
+#ca-list-controls p {
+	display: inline;
+	float: left;
+	margin-right: 1em;
+	margin-top: 0.5em;
+}
+
+#ca-list-balance-container {
+	margin-top: 0.2em;
+}
+
+#ca-btns {
+	clear: left;
+	display: block;
+	font-size: 1.5em;
+} 
+
+#ca-list-grid {
+	width: 520px;
+	height: 200px;
+}
+
+#ca-from-txt{
+	clear: left;
+}
+
+.popup {
+	display: none;
+}
+
+#ca-hold-ctrl {
+	display: block;
+	clear: left;
+}

@@ -1,0 +1,23 @@
+@CHARSET "ISO-8859-1";
+
+
+#category-grid{
+	width: 30%;
+	height: 440px;
+}
+
+#module-grid{
+	width: 60%;
+	height: 440px;
+}
+
+.grid {
+	display: inline-grid;
+	float: left;
+	margin-right: 3em;
+}
+
+.popup {
+	display: none;
+	font-size: 12px;
+}
